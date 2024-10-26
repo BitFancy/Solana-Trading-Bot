@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://t.me/chain_crafts" target="_blank">Hi 👋, I'm a Blockchain Engineer 👈🏻</a></h1>
+
 # Decentralized-Exchange-Trading-Scripts
 
 Here, you'll find a collection of useful scripts designed to automate trading on various decentralized exchanges (DEX). These tools have been meticulously crafted from the ground up, with a focus on building a robust suite of degen-tools.
@@ -30,12 +32,9 @@ The more complex and intricate the idea, the better. I love a good challenge!
 
 ## Contact Information
 
-- Email: henrytirla@protonmail.com
-- Telegram: [Let's Chat](https://t.me/henrytirla)
+- Email: bitbanana717@gmail.com
+- Telegram: [Let's Chat](https://t.me/chain_crafts)
 
 ## Support My Work
 If these scripts have helped you, please consider supporting my work. Your support will help me continue to develop these tools and create more useful resources for the crypto community.
-
-- henrytirla.eth
-- BSC/ETH/Polygon: 0x84c8ea2224cDF28b0c02EF1b2F2618dE082030fe
 
