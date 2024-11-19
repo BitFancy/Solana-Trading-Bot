@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://t.me/chain_crafts" target="_blank">Hi 👋, I'm a Blockchain Engineer 👈🏻</a></h1>
+<h1 align="center"><a href="https://t.me/bitfancy" target="_blank">Hi 👋, I'm a Blockchain Engineer 👈🏻</a></h1>
 
 # Decentralized-Exchange-Trading-Scripts
 
@@ -33,7 +33,7 @@ The more complex and intricate the idea, the better. I love a good challenge!
 ## Contact Information
 
 - Email: bitbanana717@gmail.com
-- Telegram: [Let's Chat](https://t.me/chain_crafts)
+- Telegram: [Let's Chat](https://t.me/bitfancy)
 
 ## Support My Work
 If these scripts have helped you, please consider supporting my work. Your support will help me continue to develop these tools and create more useful resources for the crypto community.
